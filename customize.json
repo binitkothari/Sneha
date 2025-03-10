@@ -1,0 +1,23 @@
+{
+  "greeting": "Hiii",
+  "name": "Sneha",
+  "greetingText": "I really like your name btw!",
+  "wishText": "May this wish will always be with you! ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! :S",
+  "textInChatBox": "Happy birthday to you!! Be happy :Blah Blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday Favorite!",
+  "outroText": "See you next year!",
+  "replayText": "Click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
